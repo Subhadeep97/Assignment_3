@@ -1,0 +1,16 @@
+===== Process Monitoring Report: 2025-06-29 10:42:39 =====
+--- Top 5 CPU consuming processes ---
+  PID  PPID COMM              %CPU %MEM
+ 9045     1 /System/Library/  43.2  0.2
+20888     1 /System/Library/  39.4  0.2
+ 1576     1 /System/Library/  17.6  7.8
+  396     1 /usr/sbin/coreau  10.8  0.2
+20906     1 /System/Library/  10.0  0.2
+--- Top 5 Memory consuming processes ---
+ 1576     1 /System/Library/  7.7  17.6
+ 1810     1 /System/Library/  1.6   0.0
+ 1783     1 /System/Library/  1.4   0.0
+  591     1 /System/Applicat  1.2   0.0
+  889   627 /Applications/Go  0.9   0.3
+20776     1 /usr/libexec/tex  0.8   1.8
+
